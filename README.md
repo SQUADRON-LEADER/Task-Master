@@ -1,4 +1,4 @@
-## ✅ Task Master 🧠📝
+## ✅ Task Master 🧠
 
 ✅A powerful yet simple **To-Do List** app built with **React** and **Redux** to help you stay organized and productive throughout the day.
 
